@@ -42,6 +42,7 @@ This project predicts the risk potential of lung cancer based on Air Quality Ind
 | Random Forest       | ~XX%     | PM2.5, AQI, NO₂ |
 | Logistic Regression | ~XX%     | AQI, PM10       |
 | SVM                 | ~XX%     | PM2.5, SO₂      |
+
 PM2.5 and AQI showed the strongest correlation with increased lung cancer risk potential.
 
 💡 Key Insights
