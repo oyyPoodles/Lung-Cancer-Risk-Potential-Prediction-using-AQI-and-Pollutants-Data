@@ -75,6 +75,6 @@ jupyter notebook
 1. Ujjwal Chaudhary
 🔗 GitHub: @oyyPoodles
 2. Gautam yadav
-🔗 GitHub: @oyyPoodles
+🔗 GitHub: 
 3. Mayank Shah
-🔗 GitHub: @
+🔗 GitHub: @YohoMayank
